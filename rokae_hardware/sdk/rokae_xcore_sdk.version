@@ -1,0 +1,13 @@
+{
+  global:
+    _ZN5rokae*;
+    _ZT*rokae*;
+    _ZTS*N5rokae*;
+    _ZTVN5rokae*;
+    rokae_xcore_sdk_stub_anchor;
+  local:
+    *spdlog*;
+    *fmt*;
+    *SPDLOG*;
+    *FMT*;
+};
